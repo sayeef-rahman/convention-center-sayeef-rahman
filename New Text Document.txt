@@ -1,0 +1,9 @@
+Github Classroom (Private): https://classroom.github.com/a/DSUQJcwB
+
+echo "# convention-center-sayeef-rahman" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Porgramming-Hero-web-course/convention-center-sayeef-rahman.git
+git push -u origin main
