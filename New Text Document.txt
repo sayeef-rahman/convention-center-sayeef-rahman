@@ -1,5 +1,7 @@
 Github Classroom (Private): https://classroom.github.com/a/DSUQJcwB
 
+Personal: https://github.com/Porgramming-Hero-web-course/convention-center-sayeef-rahman
+
 echo "# convention-center-sayeef-rahman" >> README.md
 git init
 git add README.md
